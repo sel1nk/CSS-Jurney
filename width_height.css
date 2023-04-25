@@ -1,0 +1,22 @@
+.kutu {
+    max-width: 1080px; 
+    height: 150px;
+    background: brown;
+    color: rgb(255, 255, 255);
+}
+.kutu2{
+    width: 50%;
+    /*Fill 50% of the page. If I make the screen small, arrange accordingly.*/
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+.kutu3{
+    width: 25%;
+    height: 100px;
+    background-color: brown;
+    
+}
+
+body{
+    background-color: rgb(139, 164, 97);
+}
